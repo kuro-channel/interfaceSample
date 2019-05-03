@@ -1,1 +1,4 @@
-# interfaceSample
+# interfaceSample 実装詳細
+- Feeインターフェース：チケット料金に関するインターフェース
+- AdultFeeクラス：大人チケット料金に関するクラス、Feeインターフェースを実装
+- ChildFeeクラス：子供チケット料金に関するクラス、Feeインターフェースを実装
